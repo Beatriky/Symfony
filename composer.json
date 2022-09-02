@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/http-client": "^6.1",
+        "twig/twig": "^3.4",
+        "symfony/twig-pack": "^1.0",
+        "symfony/debug": "^4.4"
+    }
+}
